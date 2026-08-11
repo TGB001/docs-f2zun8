@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-eui6u5.koi888.xyz/sitemap.xml
